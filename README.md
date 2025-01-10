@@ -13,7 +13,7 @@
 
 ---
 
-<iframe src="https://player.vimeo.com/video/1045616140" width="800" height="640" frameborder="0" allowfullscreen></iframe>
+![Demo Video](./assets/book_search_demo.gif)
 
 ---
 
