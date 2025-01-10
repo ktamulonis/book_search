@@ -13,10 +13,6 @@
 
 ---
 
-![Demo Video](./assets/book_search_demo.gif)
-
----
-
 ## Prerequisites
 
 Before setting up the application, ensure the following are installed:
