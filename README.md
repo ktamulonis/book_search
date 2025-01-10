@@ -13,6 +13,10 @@
 
 ---
 
+[Watch the demo video](./assets/book_search_demo.mp4)
+
+---
+
 ## Prerequisites
 
 Before setting up the application, ensure the following are installed:
@@ -27,7 +31,7 @@ Before setting up the application, ensure the following are installed:
 
 ## Installation Instructions
 
-### 1. Clone the Repositories
+### 1. Clone the Repositories Separately
 
 Clone the **Book Search** repository:
 ```bash
