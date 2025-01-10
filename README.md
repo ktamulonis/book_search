@@ -5,6 +5,10 @@
 
 ---
 
+[![Watch the video](https://img.youtube.com/vi/lJreR_I4MgE/0.jpg)](https://www.youtube.com/watch?v=lJreR_I4MgE)
+
+---
+
 ## Features
 
 - **Chat Interface**: A simple, conversational interface for users to search for books.
